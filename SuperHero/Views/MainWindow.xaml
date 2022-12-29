@@ -1,0 +1,90 @@
+﻿<Window x:Class="SuperHeroUI.MainWindow"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Super Hero App" Height="480" Width="720" MinWidth="720" MinHeight="480" MaxWidth="1920">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Шапка -->
+        <Border Background="#434343" Padding="15" Grid.ColumnSpan="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBox 
+                    MaxWidth="700"
+                    Grid.Column="1" 
+                    Grid.ColumnSpan="2"
+                    Foreground="White" 
+                    materialDesign:HintAssist.Hint="Поиск"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <Button Grid.Column="0" 
+                        HorizontalAlignment="Left" 
+                        Content="Избранное" 
+                        Margin="10 0" 
+                        FontSize="14" 
+                        Command="{Binding OpenFavouritesWindow}"
+                        MaxWidth="250" Width="{Binding ActualWidth, ElementName=listBox, Mode=OneWay}" Cursor="Hand"/>
+                <Button Grid.Column="3"
+                        Content="Свои герои"
+                        Margin="10 0"
+                        FontSize="14"
+                        Command="{Binding OpenCustomHeroesWindow}"
+                        MaxWidth="250" Cursor="Hand"/>
+            </Grid>
+        </Border>
+
+        <!-- Список всех героев -->
+        <ScrollViewer Background="#F6F6F6" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Padding="15" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" >
+            <ListBox x:Name="listBox" Margin="15 5" ItemsSource="{Binding Heroes}" SelectedItem="{Binding SelectedHero}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock FontSize="18" Text="{Binding Path=Name}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </ScrollViewer>
+
+        <!-- Основное поле характеристик -->
+        <Border Grid.Column="1" Grid.Row="1" Padding="15 15 0 0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Image x:Name="image" Source="{Binding SelectedHero.Images.Lg}" Margin="0 0 15 0" Grid.Column="0" Grid.Row="0" Grid.RowSpan="2"/>
+                <StackPanel Grid.Row="0" Grid.Column="1" Grid.RowSpan="3">
+                    <TextBlock FontSize="32" Text="{Binding SelectedHero.Name}" TextWrapping="Wrap"/>
+                    <TextBlock FontSize="20" Text="{Binding SelectedHero.Id, StringFormat='• id:{0}'}" TextWrapping="Wrap"/>
+                    <TextBlock FontSize="20" Text="{Binding SelectedHero.PowerStats, StringFormat='• {0}'}" TextWrapping="Wrap"/>
+                    <TextBlock FontSize="20" Text="{Binding SelectedHero.Appearance, StringFormat='• {0}'}" TextWrapping="Wrap"/>
+                    <TextBlock FontSize="20" Text="{Binding SelectedHero.Biography, StringFormat='• {0}'}" TextWrapping="Wrap"/>
+                    <TextBlock FontSize="20" Text="{Binding SelectedHero.Work, StringFormat='• {0}'}" TextWrapping="Wrap"/>
+                    <TextBlock FontSize="20" Text="{Binding SelectedHero.Connections, StringFormat='• {0}'}" TextWrapping="Wrap"/>
+                </StackPanel>
+                <Button Command="{Binding AddToFavourites}" Content="Добавить в избранное" Grid.Row="2" VerticalAlignment="Top" Margin="15" MaxWidth="250" Width="{Binding ActualWidth, ElementName=image, Mode=OneWay}" Cursor="Hand" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

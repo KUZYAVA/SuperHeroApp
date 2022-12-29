@@ -1,0 +1,43 @@
+﻿<Window x:Class="SuperHero.Views.AuthorisationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:SuperHero.Views"
+        mc:Ignorable="d"
+        Background="#EBEBEB"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Авторизация" Height="350" Width="400">
+    <StackPanel>
+        <Border Background="#434343" Padding="15">
+            <TextBlock Text="Авторизация" Foreground="White" HorizontalAlignment="Center" FontSize="22"/>
+        </Border>
+        <Border CornerRadius="10" Background="#F6F6F6" Padding="10 5" Margin="70 25">
+            <Border.Effect>
+                <DropShadowEffect Color="Gray" BlurRadius="10" ShadowDepth="0.5" Direction="0"/>
+            </Border.Effect>
+            <TextBox Foreground="Black" materialDesign:HintAssist.Hint="Логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        </Border>
+        <Border CornerRadius="10" Background="#F6F6F6" Padding="10 5" Margin="70 10">
+            <Border.Effect>
+                <DropShadowEffect Color="Gray" BlurRadius="10" ShadowDepth="0.5" Direction="0"/>
+            </Border.Effect>
+            <PasswordBox Foreground="Black" materialDesign:HintAssist.Hint="Пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+        </Border>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Button Command="{Binding Authorization}" Grid.Row="1" Content="Войти" Width="150" Cursor="Hand"/>
+            <TextBlock Grid.Column="1" Foreground="Gray" FontSize="11" Text="Ещё нет аккаунта?" VerticalAlignment="Bottom" Margin="25,0,0,0"/>
+            <Button Content="Регистрация" Width="150" Grid.Column="1" Grid.Row="1" Style="{StaticResource MaterialDesignOutlinedButton}"/>
+        </Grid>
+    </StackPanel>
+</Window>

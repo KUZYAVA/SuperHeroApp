@@ -1,0 +1,6 @@
+C:\Users\HP Laptop\Desktop\SuperHeroProject (old)\SuperHeroProject\SuperHeroProject\obj\Debug\net472\SuperHeroProject.csproj.AssemblyReference.cache
+C:\Users\HP Laptop\Desktop\SuperHeroProject (old)\SuperHeroProject\SuperHeroProject\obj\Debug\net472\SuperHeroProject.exe.config
+C:\Users\HP Laptop\Desktop\SuperHeroProject (old)\SuperHeroProject\SuperHeroProject\obj\Debug\net472\SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Laptop\Desktop\SuperHeroProject (old)\SuperHeroProject\SuperHeroProject\obj\Debug\net472\SuperHeroProject.AssemblyInfoInputs.cache
+C:\Users\HP Laptop\Desktop\SuperHeroProject (old)\SuperHeroProject\SuperHeroProject\obj\Debug\net472\SuperHeroProject.AssemblyInfo.cs
+C:\Users\HP Laptop\Desktop\SuperHeroProject (old)\SuperHeroProject\SuperHeroProject\obj\Debug\net472\SuperHeroProject.csproj.CoreCompileInputs.cache

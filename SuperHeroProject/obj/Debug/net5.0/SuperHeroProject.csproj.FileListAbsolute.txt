@@ -1,0 +1,274 @@
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.deps.json
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.json
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.dev.json
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.dll
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/ref/SuperHeroProject.dll
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.pdb
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.AssemblyReference.cache
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfoInputs.cache
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfo.cs
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CoreCompileInputs.cache
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.dll
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/ref/SuperHeroProject.dll
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.pdb
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.genruntimeconfig.cache
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/RestSharp.dll
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/System.Text.Json.dll
+/Users/alexanderkuzevanov/RiderProjects/SuperHeroProject/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/Ninject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.exe
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.deps.json
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.json
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.dev.json
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/ref/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.pdb
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/Ninject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/RestSharp.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/bin/Debug/net5.0/System.Text.Json.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfoInputs.cache
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfo.cs
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CoreCompileInputs.cache
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CopyComplete
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/ref/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.pdb
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.genruntimeconfig.cache
+C:/Users/HP Laptop/Desktop/SuperHeroProject (old)/SuperHeroProject/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.AssemblyReference.cache
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.exe
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.deps.json
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.json
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.dev.json
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/ref/SuperHeroProject.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.pdb
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Firebase.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Firebase.Storage.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/FluentResults.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/LiteDB.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Ninject.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/RestSharp.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Reactive.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Runtime.InteropServices.WindowsRuntime.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.AssemblyReference.cache
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfoInputs.cache
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfo.cs
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CoreCompileInputs.cache
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CopyComplete
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/ref/SuperHeroProject.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.pdb
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.genruntimeconfig.cache
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Александр/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.deps.json
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.json
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.dev.json
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/ref/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.pdb
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Firebase.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Firebase.Storage.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/FluentResults.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/LiteDB.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Ninject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/RestSharp.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Reactive.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.AssemblyReference.cache
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfoInputs.cache
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfo.cs
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CoreCompileInputs.cache
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/ref/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.pdb
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.genruntimeconfig.cache
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.exe
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.deps.json
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.json
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.dev.json
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/ref/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.pdb
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Firebase.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Firebase.Storage.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/FluentResults.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/LiteDB.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/Ninject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/RestSharp.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Reactive.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/System.Runtime.InteropServices.WindowsRuntime.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfoInputs.cache
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfo.cs
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CoreCompileInputs.cache
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CopyComplete
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/ref/SuperHeroProject.dll
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.pdb
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.genruntimeconfig.cache
+C:/Users/HP Laptop/Desktop/SuperHeroApp/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.AssemblyReference.cache
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.deps.json
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.json
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.runtimeconfig.dev.json
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/ref/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SuperHeroProject.pdb
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Firebase.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Firebase.Storage.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/FluentResults.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/LiteDB.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/Ninject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/RestSharp.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/System.Reactive.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.AssemblyReference.cache
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfoInputs.cache
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.AssemblyInfo.cs
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.csproj.CoreCompileInputs.cache
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/ref/SuperHeroProject.dll
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.pdb
+/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/Debug/net5.0/SuperHeroProject.genruntimeconfig.cache

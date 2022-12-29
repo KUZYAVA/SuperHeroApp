@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHero/SuperHero.csproj": {}
+  },
+  "projects": {
+    "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHero/SuperHero.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHero/SuperHero.csproj",
+        "projectName": "SuperHero",
+        "projectPath": "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHero/SuperHero.csproj",
+        "packagesPath": "/Users/alexanderkuzevanov/.nuget/packages/",
+        "outputPath": "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHero/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexanderkuzevanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/SuperHeroProject.csproj": {
+                "projectPath": "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/SuperHeroProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.6, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/SuperHeroProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/SuperHeroProject.csproj",
+        "projectName": "SuperHeroProject",
+        "projectPath": "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/SuperHeroProject.csproj",
+        "packagesPath": "/Users/alexanderkuzevanov/.nuget/packages/",
+        "outputPath": "/Users/alexanderkuzevanov/Downloads/SuperHeroApp 3/SuperHeroProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexanderkuzevanov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "FluentResults": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.6, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
